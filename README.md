@@ -11,11 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sudhanva_282" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png
-" alt="sudhanva_282" height="30" width="40" /></a>
+<a href="https://twitter.com/sudhanva_282" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" alt="sudhanva_282" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sudhanva-282-" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="sudhanva-282-" height="30" width="40" /></a>
-<a href="https://instagram.com/sudhanva_sudhu" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/640px-Instagram_icon.png
-" alt="sudhanva_sudhu" height="30" width="40" /></a>
+<a href="https://instagram.com/sudhanva_sudhu" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/640px-Instagram_icon.png" alt="sudhanva_sudhu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
