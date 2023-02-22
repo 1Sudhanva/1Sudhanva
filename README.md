@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/sudhanva_282" target="blank"><img src="https://img.shields.io/twitter/follow/sudhanva_282?logo=twitter&style=for-the-badge" alt="sudhanva_282" /></a> </p>
 
-- 🔭 I’m currently working on [Smriti Tech](https://1sudhanva.github.io/Smriti-tech/)
-
 - 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **sudhanva.asai@gmail.com**
